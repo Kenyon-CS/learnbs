@@ -2,8 +2,8 @@
 A start for learning Bootstrap 5.0
 
 
-#To deploy:
+# To deploy:
 
-sudo mkdir /var/www/html/learnbs
-sudo chown ubuntu /var/www/html/learnbs
-make
+ 1. sudo mkdir /var/www/html/learnbs
+ 2. sudo chown ubuntu /var/www/html/learnbs
+ 3. make
