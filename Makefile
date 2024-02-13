@@ -3,7 +3,7 @@
 all: PutHTML
 
 PutHTML:
-	cp * /var/www/html/learnbs/
+	cp learnbs.html /var/www/html/learnbs/
 
 	echo "Current contents of your HTML directory: "
 	ls -l /var/www/html/learnbs/
